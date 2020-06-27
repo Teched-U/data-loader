@@ -1,9 +1,9 @@
 {
     "-u": "xuchen727@hotmail.com",
     "-p": "Deecamp123",
-    "--cauth": "MK3ftSBvCC71xzNf39L4Unhmhi3WDmFp5OA3NB0fnOnxUb-Ej_FPuJiB_TZ4XiHjI7k-O_ZYtM2T1qi2ezbEqQ.KGDXrDie-nqjmAXXE_5vew.JNcx821kof3KNHfFNipJrkYLhX_BC6NEK7z0E6xxwCpMYuoSmOfcto_eBPa3pXzhy42vttzu0NoBtoUaKOkNiuvBE1qM5k-7qT0H9fEjfi_qKtgp5BvqMwrYgDOhw3tNT58mNtmg5DfACV0AjVZ8Wat_rDYEaWxzVN1ZblG-ToO2YjJBiuZy8evRVFP3QrZx",
-    "--path": "./",
+    "--cauth": "A6DLh0dWVVQiyHkdmePN7_hzAT1ppxUaLTDd0LLEGK0Rv3xWVfaUZIo9hjpz4Hvk2OqPhkMoQsKzwXRn5Y9dxA.SQbUUcrD-qMW_1LhDEXhDw.H5dFYR9xH4v8L0zKOIss1wlaQCqZkdeuLCUSt2QGK8a1nLsewNrOLYG-z6RVX7rSXk5sHz6L_OMgpqtTj5IWBSSbsDPPwQ4UhigmfXBYLjngOGB45vRjDVHGfXrqmijEmd92v4q88IiG-Q9cL6TUA62CcgY4YlFKPb4KA10Es90uFdYuMfAxjyCCJEbNnyUp",
+    "--path": "/tmp/coursera-download",
     "-sl": "en",
     "FLAGS": [],
-    "output_path": "~/data"
+    "output_path": "~/coursera-data"
 }
